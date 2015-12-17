@@ -9,12 +9,12 @@ file2 = open('MCAT_Flashcards_Answers.txt', 'r')
 f1content = file1.readlines()
 f2content = file2.readlines()
 
-while count < 15:
+while count < 5:
     os.system('clear')
 
     wordnum = random.randint(0, len(f1content)-1)
 
-    print 'Word:', f1content[wordnum], ''
+    print 'Question:', f1content[wordnum], ''
 
     options = [random.randint(0, len(f2content)-1),
         random.randint(0, len(f2content)-1),
