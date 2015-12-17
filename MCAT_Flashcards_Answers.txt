@@ -1,5 +1,13 @@
-As ENZYMES are highly selective catalysts, they remain unchanged at the end of a biochemical reaction.
-ENZYMES provide an alternative energy pathway.
-ENZYMES only alter the rate of reaction, not the position of equilibrium.
-ENZYME COFACTOR
+As enzymes are highly selective catalysts, they remain unchanged at the end of a biochemical reaction.
+Enzymes provide an alternative energy pathway.
+Enzymes only alter the rate of reaction, not the position of equilibrium.
+An Enzyme Cofactor is a non-protein addition to an enzyme.
 The addition of more substrates won't increase the reaction rate if all active sites are bound, as they are in a rate-limited reaction.
+The enzyme-substrate-complex changes shape to facilitate reactions.
+The rate of the reaction is proportional to the enzyme concentration.
+The enzyme's active site specifically binds to substrate.
+As an enzyme is a protein, it may denature at a suboptimal temperature or pH.
+Inhibitors disrupt the enzyme's active site.
+With the addition of more substrate.
+Compete with substrate for an enzyme's active site.
+Non-Competetive Inhibitors alter an enzyme by binding to a portion of it other than the active site, such that the substrate can no longer "fit" in the active site, preventing (Vmax).

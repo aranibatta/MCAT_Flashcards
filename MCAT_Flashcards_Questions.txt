@@ -1,5 +1,13 @@
-{BIOLOGY | ENZYMES | CARD #1} Are ENZYMES changed through the completion of a biochemical reaction?
-{BIOLOGY | ENZYMES | CARD #1} How do ENZYMES allow for a lower activation energy threshold?
-{BIOLOGY | ENZYMES | CARD #1} Do ENZYMES alter the position of equilibrium?
-{BIOLOGY | ENZYMES | CARD #1} What is the name of the non-protein addition to an ENZYME?
-{BIOLOGY | ENZYMES | CARD #1} What will happen if you add more substrate to a rate-limited reaction?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} Are enzymes changed through the completion of a biochemical reaction?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} How do enzymes allow for a lower activation energy threshold?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} Do ezymes alter the position of equilibrium?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} What is the name of the non-protein addition to an enzyme?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} What will happen if you add more substrate to a rate-limited reaction?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} What part of an enzyme changes shape to to facilitate a reaction?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} With an unlimited amount of substrate, and the correct pH and temperature, what is the rate of the reaction proportional to?
+{BIOLOGY | ENZYME STRUCTURE AND FUNCTION | CARD #1} What part of an enzyme specifically binds to a substrate?
+{BIOLOGY | ENZYME INHIBITION | CARD #2} What will happen to an enzyme if it is at a suboptimal temperature or pH?
+{BIOLOGY | ENZYME INHIBITION | CARD #2} How do inhibitors decrease or stop catalytic activity?
+{BIOLOGY | ENZYME INHIBITION | CARD #2} How will a reaction reach its maximal rate at (Vmax)?
+{BIOLOGY | ENZYME INHIBITION | CARD #2} What do competitive inhibitors do?
+{BIOLOGY | ENZYME INHIBITION | CARD #2} How do Non-Competetive Inhibitors alter an enzyme?
