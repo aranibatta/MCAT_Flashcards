@@ -14,7 +14,7 @@ while count < 5:
 
     wordnum = random.randint(0, len(f1content)-1)
 
-    print 'Question:', f1content[wordnum], ''
+    print('Question:', f1content[wordnum], '')
 
     options = [random.randint(0, len(f2content)-1),
         random.randint(0, len(f2content)-1),
@@ -22,13 +22,13 @@ while count < 5:
 
     options[random.randint(0, 2)] = wordnum
 
-    print '1 -', f2content[options[0]],
-    print '2 -', f2content[options[1]],
-    print '3 -', f2content[options[2]],
+    print ('A -', f2content[options[0]],)
+    print ('B -', f2content[options[1]],)
+    print ('C -', f2content[options[2]],)
 
     answer = input('\nInput Answer ')
 
-    if options[answer-1] == wordnum:
+    if(options[answer-1] == int(wordnum)):
         raw_input('\nYou chose correctly. Push enter to continue...')
         score = score + 1
     else:
@@ -36,4 +36,4 @@ while count < 5:
 
     count = count + 1
 
-print '\nYour number correct is:', score
+print('\nYour number correct is:', score)
